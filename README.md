@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/logo-ti.png" width="220" />
+</p>
 # kidde-fire-alarm-system
 
 Documentación técnica, implementación y diagrama de un sistema de incendios Kidde.
